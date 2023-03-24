@@ -13,7 +13,6 @@ const Home = ({ Data, Storage_URL }) => {
     useEffect(() => {
         let members = new Set()
         Object.keys(Data.Teams).forEach(key => {
-            console.log(Data.Teams[key].members + " in Home.jsx")
             members.add(Data.Teams[key].lead)
             if (Data.Teams[key].members) Data.Teams[key].members.forEach(member => members.add(member))
         });
