@@ -1,0 +1,172 @@
+{
+  "ClubInfo": {
+    "name": "Yoga Club NITK",
+    "about": "Yoga Club NITK is a student run club that aims to promote the practice of yoga among the students of NITK. We believe that yoga is not just a physical exercise, but a way of life that can help individuals achieve balance, clarity, and inner peace. Our club is open to all students who are interested in learning and practicing yoga, regardless of their level of experience. Whether you are a beginner or an experienced practitioner, our club provides a supportive and non-judgmental environment where you can deepen your practice and connect with like-minded individuals. Our club is committed to creating a welcoming and inclusive environment for all students. We believe that yoga is for everyone, regardless of age, gender, race, or ability. We strive to create a space where all students feel comfortable and supported in their practice.",
+    "logo": "/Icon.png",
+    "linkedin": "https://www.linkedin.com/company/yoga-club-nitk/",
+    "instagram": "https://www.instagram.com/yogaclubnitk/",
+    "facebook": "",
+    "twitter": "",
+    "email": "yogaclub@nitk.edu.in",
+    "location": "National Institute of Technology Karnataka, Surathkal"
+  },
+
+  "CarouselImages": [
+    "images%2fcarousel-1.jpg",
+    "images%2fcarousel-2.jpg",
+    "images%2fcarousel-3.jpg"
+  ],
+
+  "CorePositions": [
+    {
+      "title": "Convenor",
+      "id": "191452"
+    },
+    {
+      "title": "Website Management Team Head",
+      "id": "191632"
+    },
+    {
+      "title": "Faculty Advisor",
+      "id": "faculty"
+    }
+  ],
+
+  "Events": [
+    {
+      "name": "7-Days Yoga Camp",
+      "datetime": "1st to 7th June, 2022",
+      "venue": "NITK Yoga Hall",
+      "image": "images%2fevents%2fyoga-camp.JPG",
+      "link": {
+        "title": "Registration Link",
+        "url": ""
+      },
+      "about": "Yoga Club condcuted a 7-day yoga camp, where more than 300 participants joined us for a transformative experience led by the renowned yoga guru, Raghvendra. Over the course of the 7-day camp, participants learned a variety of yoga practices and techniques aimed at promoting health, wellness, and inner peace. From asanas to pranayama and meditation, each day was filled with opportunities to deepen our understanding of the ancient practice of yoga. <br />We were honored to have esteemed guests at our 7-day yoga camp, including the Director, Dean of Students' Welfare, Associate Deans of Students' Welfare, and SAS officers. Their presence at the event highlighted the importance of promoting health and wellness among college students, and we were grateful for their support in our efforts to spread awareness about the benefits of yoga."
+    },
+    {
+      "name": "Yoga 101",
+      "datetime": "8th Jan, 2023",
+      "venue": "NITK Yoga Hall",
+      "image": "images%2fevents%2fyoga-101.jpeg",
+      "link": {
+        "title": "Registration Link",
+        "url": "https://forms.gle/PdM2jDTW1vdhh9XJ6"
+      },
+      "about": "Yoga 101 was a fantastic event hosted by our club, aimed at introducing complete beginners to the practice of yoga. The event was focused on teaching basic yoga postures, along with pranayama and surya namaskara, to help participants understand the importance of yoga in their daily lives."
+    },
+    {
+      "name": "Coastal Calming",
+      "datetime": "19th February, 2023",
+      "venue": "NITK Beach",
+      "image": "images%2fevents%2fcoastal-calming.JPG",
+      "link": {
+        "title": "Registration Link",
+        "url": "https://forms.gle/PdM2jDTW1vdhh9XJ6"
+      },
+      "about": "The Yoga club of NITK Surathkal organized 'Coastal Calming' a yoga session at NITK beach today (19.02.2023) from 7.00 AM-8.30 AM at the backdrop of the Arabian sea. <br /> NITK Director (additional charge), Prof. Prasad Krishna presided over the session. More than 200 participants including the staff and students of NITK participated in the yoga session. Ms. Venilla Manikandan, a Hatha Yoga Trainer, who is also a Black belt in Judo provided by Judo federation of India and ministry of sports, Black belt in taekwondo, karate, Mixed Martial arts woman to get the Black belt in dakshina kannada district in judo-by-Judo federation of India, pursuing MTech at Civil Engineering department, NITK Surathkal was the instructor for the session. <br />Prof. Prasad Krishna, the director and a yoga instructor himself, addressed the gathering and emphasized the importance of yoga practice. In addition, he complimented the Prime Minister of India, Shri Narendra Modi, for his contribution to yoga's worldwide popularity. He said that PM Modi's efforts had made yoga valued worldwide, despite cultural differences."
+    }
+  ],
+
+  "Blogs": [
+    {
+      "title": "Intersection of Yoga and Technology in Modern Times",
+      "datetime": "2023-03-21",
+      "author": "Satyajeet Kumar",
+      "image": "images%2fblogs%2fblog-image.avif",
+      "content": "In today's world, technology has become an integral part of our lives. We use it to communicate, learn, work, and even to practice yoga. While some people may think that technology and yoga are incompatible, there is actually a growing intersection between the two that has the potential to transform the way we practice and experience yoga. <br /> One way that technology is being used to enhance yoga practice is through the development of online yoga classes and apps. With these resources, people can access a wide range of yoga classes and styles from the comfort of their own home or office. This has made yoga more accessible and convenient than ever before, especially for those with busy schedules or limited access to in-person classes. <br />Online classes and apps also offer the ability to customize yoga practices based on individual needs and goals. With the help of technology, users can track their progress, set goals, and receive feedback and guidance from experienced instructors. <br />Another way that technology is transforming yoga is through the use of wearable devices. These devices, such as smartwatches and fitness trackers, can monitor heart rate, breathing patterns, and movement during yoga practice. This data can be used to improve the effectiveness and safety of yoga practice, as well as to track progress over time. <br />Virtual reality is another area where yoga and technology are intersecting. VR technology allows users to immerse themselves in a virtual yoga environment, where they can practice and receive instruction from a virtual instructor. This technology can provide a more immersive and engaging yoga experience, making it easier to focus and stay present during practice. <br />However, it's important to note that while technology can enhance the practice of yoga, it should never replace the essential elements of yoga. Yoga is a deeply personal and spiritual practice that requires a connection with the self and the present moment. While technology can be a helpful tool, it's important to maintain a balance and not let it distract from the essence of the practice. <br />In conclusion, the intersection of yoga and technology is an exciting and rapidly evolving field. While it's still important to maintain the essential elements of yoga, technology has the potential to enhance the accessibility, convenience, and effectiveness of yoga practice. As technology continues to evolve, we can expect to see even more innovative ways that it can be used to support and enhance the practice of yoga in the modern world.",
+      "link": {
+        "title": "Read More",
+        "url": ""
+      }
+    },
+    {
+      "title": "Intersection of Yoga and Technology in Modern Times",
+      "datetime": "2023-03-21",
+      "author": "Satyajeet Kumar",
+      "image": "images%2fblogs%2fblog-image.avif",
+      "content": "In today's world, technology has become an integral part of our lives. We use it to communicate, learn, work, and even to practice yoga. While some people may think that technology and yoga are incompatible, there is actually a growing intersection between the two that has the potential to transform the way we practice and experience yoga. <br /> One way that technology is being used to enhance yoga practice is through the development of online yoga classes and apps. With these resources, people can access a wide range of yoga classes and styles from the comfort of their own home or office. This has made yoga more accessible and convenient than ever before, especially for those with busy schedules or limited access to in-person classes. <br />Online classes and apps also offer the ability to customize yoga practices based on individual needs and goals. With the help of technology, users can track their progress, set goals, and receive feedback and guidance from experienced instructors. <br />Another way that technology is transforming yoga is through the use of wearable devices. These devices, such as smartwatches and fitness trackers, can monitor heart rate, breathing patterns, and movement during yoga practice. This data can be used to improve the effectiveness and safety of yoga practice, as well as to track progress over time. <br />Virtual reality is another area where yoga and technology are intersecting. VR technology allows users to immerse themselves in a virtual yoga environment, where they can practice and receive instruction from a virtual instructor. This technology can provide a more immersive and engaging yoga experience, making it easier to focus and stay present during practice. <br />However, it's important to note that while technology can enhance the practice of yoga, it should never replace the essential elements of yoga. Yoga is a deeply personal and spiritual practice that requires a connection with the self and the present moment. While technology can be a helpful tool, it's important to maintain a balance and not let it distract from the essence of the practice. <br />In conclusion, the intersection of yoga and technology is an exciting and rapidly evolving field. While it's still important to maintain the essential elements of yoga, technology has the potential to enhance the accessibility, convenience, and effectiveness of yoga practice. As technology continues to evolve, we can expect to see even more innovative ways that it can be used to support and enhance the practice of yoga in the modern world.",
+      "link": {
+        "title": "Read More",
+        "url": ""
+      }
+    }
+  ],
+
+  "Reports": [
+    {
+      "title": "Annual Report 2022-23",
+      "file": "docs%2freports%2ffile.pdf"
+    }
+  ],
+
+  "Magazines": [],
+
+  "Teams": {
+    "mot": {
+      "name": "Marketing and Outreach Team",
+      "description": "Marketing and Outreach Team is responsible for promoting the yoga club to the broader community and increasing membership. We work on developing and implementing marketing strategies, designing promotional materials, managing social media accounts, and collaborating with other organizations to create partnerships and events.",
+      "lead": "191452",
+      "members": [],
+      "alumni": []
+    },
+    "wmt": {
+      "name": "Website Management Team",
+      "description": "Website Management Team is responsible for maintaining the club's website, ensuring that it is up-to-date, and providing useful information to the members. We work on creating new web pages, updating existing ones, and monitoring the website's performance. The team also manages online registrations, payments, and member profiles.",
+      "lead": "191632",
+      "members": [],
+      "alumni": []
+    },
+    "emt": {
+      "name": "Events Management Team",
+      "description": "Events Management Team is responsible for planning and executing all events for the yoga club. We work on creating and coordinating yoga workshops, retreats, and community events. The team ensures that all events are well-organized, enjoyable, and meet the needs of the members.",
+      "lead": "191452",
+      "members": [],
+      "alumni": []
+    },
+    "mdt": {
+      "name": "Media and Design Team",
+      "description": "Media and Design Team is responsible for creating visual content for the club, such as graphics, photos, and videos. We work on designing promotional materials, social media posts, and website images. The team also manages the club's branding and ensures that all content aligns with the club's vision and values.",
+      "lead": "191452",
+      "members": [],
+      "alumni": []
+    },
+    "nit": {
+      "name": "New Initiatives Team",
+      "description": "New Initiatives Team is responsible for developing and implementing new initiatives to enhance the club's offerings and benefits to everyone. We work on researching new yoga practices, trends, and techniques, and integrating them into the club's activities. The team also collaborates with other teams to design new programs and events that align with the members' needs and preferences.",
+      "lead": "191452",
+      "members": [],
+      "alumni": []
+    },
+    "yt": {
+      "name": "Yoga Team",
+      "description": "The Yoga Team is responsible for conducting yoga sessions for the club. The team is also responsible for maintaining the club's social media presence.",
+      "lead": "191452",
+      "members": ["191452"],
+      "alumni": ["191452"]
+    }
+  },
+
+  "Members": {
+    "191452": {
+      "name": "Satyajeet Kumar",
+      "email": "satyajeetk83@email.com",
+      "linkedin": "https://www.linkedin.com/in/satyajeetk96/",
+      "github": "https://www.github.com/satyajeetk96",
+      "image": "images%2fmembers%2f191452.jpg"
+    },
+    "191632": {
+      "name": "Akshay Jain",
+      "email": "akshayjain222002@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/akshay-jain22/",
+      "github": "https://github.com/Akshay-jain22/",
+      "image": "images%2fmembers%2f191632.png"
+    },
+    "faculty": {
+      "name": "Dr. V. Murugan",
+      "email": "murugan@nitk.edu.in",
+      "profile": "https://macs.nitk.ac.in/faculty/v-murugan",
+      "image": "images%2fmembers%2ffa.jpg"
+    }
+  }
+}
